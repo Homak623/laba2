@@ -127,13 +127,13 @@ Backend предоставляет API-методы, вызывая которы
 Исходных код проекты включает в себя программы двух главных составляющих проекта: фронтенд и бэкэнд, а также дампы таблиц для MySQL базы данных
 
 ## 6.1 Frontend
-[Frontend](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/client)
+[Frontend](---)
 
 ## 6.2 Backend
-[Backend](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/server)
+[Backend](---)
 
 ## 6.3 Data Base
-[Data Base](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/data-base)
+[Data Base](---)
 
 # 7 Тестирование
 
