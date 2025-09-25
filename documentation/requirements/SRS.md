@@ -1,4 +1,4 @@
-# Требования к проекту — «To-do Web Manager"
+# Требования к проекту — "To-do Web Manager"
 
 ---
 
