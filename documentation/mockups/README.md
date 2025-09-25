@@ -1,15 +1,15 @@
 ### Страница аутентификации:
 
-![Login/Registration](./1.png)
+![Login/Registration](./createTask.png)
 
 ### Главная страница с задачами:
 
-![Tasks](./2.png)
+![Tasks](./main.png)
 
 ### Окно создания задачи:
 
-![Create task](./3.png)
+![Create task](./createTask.png)
 
 ### Окно изменения задачи:
 
-![Edit task](./4.png)
+![Edit task](./createTaskFullfield.png)
