@@ -307,27 +307,6 @@
 
 ---
 
-# Рекомендации по структуре проекта (под `laba2/project-code`)
-
-```
-laba2/
-└─ src/
-   ├─ components/       # общие UI-компоненты (TaskCard, Modal, Button)
-   ├─ pages/            # страницы / views (Dashboard, ProjectView, Settings)
-   ├─ services/         # доступ к IndexedDB, экспорт/импорт, helper API
-   ├─ store/            # state management (context / redux / zustand)
-   ├─ styles/           # глобальные стили / темы
-   ├─ types/            # TS-интерфейсы и типы
-   └─ utils/            # утилиты (date helpers, validation)
-```
-
-# Сущности данных (примерная схема)
-
-* Task: { id, title, description, projectId, tags[], priority, dueDate, createdAt, updatedAt, completed, subtasks[] }
-* Project: { id, name, color, createdAt }
-* Tag: { id, name }
-* UserProfile: { id, name, settings }
-
 ---
 
 *Конец документа.*
